@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+}
+a{
+text-decoration: none;
+}
+*:focus{
+    outline: none;
+}
+ul{list-style: none;}
+
+.page{
+    background-color: #f1f5f9;
+    min-height: 100vh;
+    
+}
