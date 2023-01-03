@@ -67,3 +67,9 @@
     -o-border-radius: 6px;
 }
 /* End Border */
+
+/* mobile hide */
+@media (max-width:767px){
+    .hide-mobile{display:none ;}
+}
+/* mobile hide */
