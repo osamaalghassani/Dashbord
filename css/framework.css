@@ -25,9 +25,13 @@
 /* start Color */
 .bg-white{
     background-color: white;
+    
 }
 .c-black{
     color: black;
+}
+.bg-eee{
+    background-color: #eee;
 }
 /* start Color */
 
